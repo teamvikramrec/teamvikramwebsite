@@ -1,4 +1,4 @@
-# Team Vikram — Coming Soon
+# Team Vikram
 
 Coming soon landing page for **Team Vikram**, a student rocketry team from Rajalakshmi Engineering College.
 
